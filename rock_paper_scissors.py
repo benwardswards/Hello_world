@@ -38,3 +38,5 @@ while True:
             break
 
         rps(usr_command,second_command)
+        
+print("not hello World")
